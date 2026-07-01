@@ -1,0 +1,6 @@
+{
+  "name": "脳トレゲーム仕様書作成プロジェクト",
+  "description": "認知症予防と脳トレを目的としたゲームの仕様書を管理するプロジェクト",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

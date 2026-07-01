@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Zen Maru Gothic", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+  --font-serif: "Zen Maru Gothic", "Sawarabi Mincho", serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #F7F4EB;
+}
